@@ -1,12 +1,8 @@
-##Code Book
+Code Book
 
-The variables are from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. 
-They were captured at a constant rate of 50 Hz. 
-
-
-2 data sets, a training and test sets are merged. 
+The variables are from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. 2 data sets, a training and test sets are merged. 
  
-Variables  include:
+Variables include:
 
 Activity- 
 
