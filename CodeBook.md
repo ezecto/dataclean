@@ -1,4 +1,4 @@
-Code Book
+#Code Book
 
 The variables are from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. 
 They were captured at a constant rate of 50 Hz. 
